@@ -1,0 +1,92 @@
+*{
+    margin:0px;
+    padding:3px;
+}
+.head{
+    height:2.4rem;
+    width:100%;
+   
+}
+.box1{
+    height:3.4rem;
+    width:45%;
+    float:left;
+    background-color: black;
+
+}
+.box2{
+    height:3.4rem;
+    width:45%;
+    float: right;
+    background-color: rgb(3, 3, 3);
+}
+.content{
+    height:3.4rem;
+    width:100%;
+    background-color: black;
+    margin-top: 2rem;
+}
+.side{
+    height:18rem;
+    width:100%;
+    margin-top: 2rem;
+}
+.left{
+    height:28rem;
+    width:45%;
+    float:left;
+    background-color: black;
+    margin-top: 1rem;;
+}
+.right{
+    height:29rem;
+    width:45%;
+    float: right;
+}
+.row1{
+    
+    width:45%;
+    float: left;
+}
+.container1{
+    height:8rem;
+    width:100%;
+    background-color: black;
+    margin-top: 1rem;
+}
+.row2{
+    float: right;
+    width:45%;
+    color: aqua;
+}
+.container2{
+    height:8rem;
+    width:100%;
+    background-color: black;
+    margin-top: 1rem;
+}
+.bottom{
+    height:18rem;
+    width:100%;
+    margin-top: 4rem;
+    float: left;
+   
+}
+.bottom-left{
+    height:18rem;
+    width:45%;
+    float:left;
+}
+.container3{
+    height:8rem;
+    width:100%;
+    background-color: black;
+    margin-top: 2rem;
+}
+.bottom-right{
+    height:18rem;
+    width:45%;
+    background-color: rgb(14, 14, 14);
+    float: right;
+    margin-top: 2rem;
+}

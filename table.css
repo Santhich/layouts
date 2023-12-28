@@ -1,0 +1,50 @@
+*{
+    margin:0px;
+    padding: 1 px;
+
+   
+}
+.main-container{
+    height:5rem;
+    width:100%;
+    
+    
+
+    
+
+}
+.main{
+    height: 5rem;
+    width:45rem;
+    background-color: black;
+}
+.table-bar{
+    height:4rem;
+    width:90rem;
+    background-color: black;
+    
+}
+.left{
+    height:20rem;
+    width:45rem;
+    background-color: black;
+    justify-content: center;
+   
+}
+.data{
+    height:7rem;
+    width:20rem;
+    background-color: black;
+    
+
+}
+.data1{
+    height:10rem;
+    width:45rem;
+    background-color: black;
+}
+.left1{
+    width:45rem;
+    height: auto;
+    background-color: black;
+}
