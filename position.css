@@ -11,16 +11,17 @@ main{
     height:4rem;
     width:100%;
     
+    
 }
 .container{
     height:4rem;
-    width:40%;
+    width:45%;
     background-color: black;
     position: absolute;
 }
 .container3{
     height:4rem;
-    width:40%;
+    width:45%;
     background-color: black;
     position: absolute;
     right:0px;
@@ -41,26 +42,26 @@ main{
 }
 .left{
     height:20rem;
-    width:40%;
+    width:45%;
     background-color: black;
     position: absolute;
     margin-top: 1rem;
 }
 .right{
     height:20rem;
-    width:40%;
+    width:45%;
     position: absolute;
     right:0px;
 }
 .container1{
     height:6rem;
-    width:40%;
+    width:45%;
     background-color: black;
     margin-top: 1rem;
 }
 .container4{
     height:6rem;
-    width:40%;
+    width:45%;
     background-color: black;
     margin-top: 1.5rem;
     position: absolute;
@@ -69,7 +70,7 @@ main{
 }
 .container5{
     height:6rem;
-    width:40%;
+    width:45%;
     background-color: black;
     margin-top: 1rem;
     position: absolute;
@@ -78,7 +79,7 @@ main{
 }
 .container6{
     height:6rem;
-    width:40%;
+    width:45%;
     background-color: rgb(12, 12, 12);
     margin-top: 1rem;
     position: absolute;
@@ -94,7 +95,7 @@ main{
 }
 .bottom-left{
 height:20rem;
-width:40%;
+width:45%;
 position: absolute;
 left:0px;
 }
@@ -106,7 +107,7 @@ left:0px;
 }
 .bottom-right{
     height:18rem;
-    width:40%;
+    width:45%;
     position: absolute;
     background-color: rgb(11, 6, 0);
     right:0px;
